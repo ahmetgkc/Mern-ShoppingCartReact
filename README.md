@@ -7,3 +7,9 @@
 
 ## npm i
 ## npm dev
+
+Shopping Cart Uygulaması E-ticaret sitesi
+kullanılan teknolojiler
+Docker,Redis,React,Nodejs,Typescript,html,css
+uygulama bir b2c e ticaret uygulamasıdır kuruyemişçi sitesidir
+
